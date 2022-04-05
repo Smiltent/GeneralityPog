@@ -1,3 +1,3 @@
 * 👋 Hello there, I’m @GeneralityPog
-* 👀 I’m interested in javascript.
-* 🌱 I’m currently learning javascript.
+* 👀 I’m interested in Javascript, Python & Java (somewhat)
+* 🌱 I’m currently learning Python & Java.
