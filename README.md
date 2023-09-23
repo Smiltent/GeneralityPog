@@ -1,3 +1,3 @@
-* 👋 Hello there, I’m @GeneralityPog
-* 👀 I’m interested in Javascript, Python & Java (somewhat)
-* 🌱 I’m currently learning Python & Java.
+## Yeah, so my names Smiltene, otherwise known as Smil.
+* Currently trying to understand what to code in life
+* Hmu if you have a idea, thank. :pray:
