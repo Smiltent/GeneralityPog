@@ -1,3 +1,8 @@
-## Yeah, so my names Smiltene, otherwise known as Smil.
-* Currently trying to understand what to code in life
-* Hmu if you have a idea, thank. :pray:
+## Hey! I'm Smil.
+Welcome to my profile!  
+I am a 16 y.o guy that is currently learning at Cēsis Tehnology and Design Tehnical School.  
+## Knowledge
+* C++ - Learning in School
+* JS/HTML/CSS - I can create something in it
+* Node.JS/Typescript - I can create something in it
+* Python - Same as the two above...
